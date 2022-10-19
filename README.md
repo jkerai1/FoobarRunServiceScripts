@@ -1,7 +1,7 @@
 # FoobarRunServiceScripts
 Foobar Run Service Plugin Scripts, Get the Plugin from: https://www.foobar2000.org/components/view/foo_run
 
-Spectogram script depends on file path of spek.exe
+Spectogram script depends on file path of spek.exe, grab spek from: http://spek.cc/
 
 
 
