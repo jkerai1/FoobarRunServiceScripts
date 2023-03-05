@@ -3,7 +3,7 @@ Foobar Run Service Plugin Scripts, Get the Plugin from: https://www.foobar2000.o
 
 Spectogram script depends on file path of spek.exe, grab spek from: http://spek.cc/
 
-
+Pull Requests welcome
 
 # Usage: 
 
