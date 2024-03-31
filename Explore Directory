@@ -1,0 +1,1 @@
+explorer /E , "$substr(%_path%,0,$strrchr(%_path%,'\'))"
