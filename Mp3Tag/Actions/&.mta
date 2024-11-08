@@ -1,0 +1,35 @@
+﻿[#0]
+T=2
+F=TITLE
+1=and
+2=&
+3=1|0
+
+[#1]
+T=2
+F=GENRE
+1=Alternative en Indie
+2=Alternative
+3=0|0
+
+[#2]
+T=2
+F=TITLE
+1=(Ablum Version)
+2=
+3=0|0
+
+[#3]
+T=2
+F=TITLE
+1=(Main Version - Explicit)
+2=
+3=0|0
+
+[#4]
+T=2
+F=TITLE
+1=(Maiin Version - Clean)
+2=
+3=0|0
+
