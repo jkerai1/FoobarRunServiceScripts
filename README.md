@@ -30,3 +30,9 @@ Right Click an the item in foobar
 ![image](https://github.com/user-attachments/assets/b5d154da-4f67-4c62-a260-523c36364d76)  
 ![image](https://github.com/user-attachments/assets/932ff13e-4c4b-49de-8b91-54fdc9448abc)  
 ![image](https://github.com/user-attachments/assets/45314b2f-78c2-4598-8522-30c335eef4da)  
+
+
+# Regex For Power Toys  
+```
+(\(EP\)\s*)?\(FLAC\)\s*\[\d{2}-Bit \d{2,3}\.\d-kHz\]\s*$
+```
