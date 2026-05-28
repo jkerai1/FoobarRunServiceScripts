@@ -22,9 +22,9 @@ F=_ALL
 [#3]
 T=2
 F=_ALL
-1=feat.
-2=ft.
-3=0|0
+1=Feat
+2=feat
+3=0
 
 [#4]
 T=2
@@ -41,51 +41,9 @@ F=_ALL
 3=0
 
 [#6]
-T=2
-F=TITLE
-1= (Album Version)
-2=
-3=0|0
-
-[#7]
 T=4
 F=YEAR
 1=\\-.*$
 2=
 3=0
-
-[#8]
-T=9
-F=COMMENT
-
-[#9]
-T=4
-F=TITLE
-1=^\\s*[0-9]+\\s*-\\s*
-2=
-3=0
-
-[#10]
-T=12
-1=\\cover.jpg
-2=0
-3=3
-
-[#11]
-T=9
-F=Composer
-
-[#12]
-T=2
-F=ALBUM
-1= (Deluxe Edition)
-2=
-3=0|0
-
-[#13]
-T=2
-F=ALBUM
-1= (EP)
-2=
-3=0|0
 
